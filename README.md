@@ -1,6 +1,7 @@
-## Hi there 👋
+Привет👋 Меня зовут Екатерина! 
 
-https://github-readme-stats.vercel.app/apiKat-Matanar45anuraghazra&show_icons=true&theme=dracula
+🔥 Моя статистика :
+https://github-readme-stats.vercel.app/apiKat-Matanar45anuraghazra&show_icons=true&theme=transparent
 
 <!--
 **Kat-Matanar45/Kat-Matanar45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
