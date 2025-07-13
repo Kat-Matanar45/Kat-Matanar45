@@ -16,14 +16,14 @@ ___
 
 <div align="left">
   <img alt="Static Badge" src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=blue&label=JS-library&labelColor=%23B0C4DE">
+  <img alt="Static Badge" src="https://img.shields.io/badge/redux-%23764ABC?style=for-the-badge&logo=redux&logoColor=%23764ABC&label=CODE&labelColor=%23b0c4de">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=Next.js&logoColor=black&label=Framework&labelColor=%23B0C4DE">
   <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&label=Framework&labelColor=%23B0C4DE">
   <img alt="Static Badge" src="https://img.shields.io/badge/tailwindcss-%2306B6D4?style=for-the-badge&logo=tailwindcss&label=framework&labelColor=%23b0c4de">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=Next.js&logoColor=black&label=Framework&labelColor=%23B0C4DE">
   <img alt="Static Badge" src="https://img.shields.io/badge/Webpack-blue?style=for-the-badge&logo=Webpack&logoColor=blue&label=%20Bundler&labelColor=%23b0c4de">
   <img alt="Static Badge" src="https://img.shields.io/badge/Vite-%23646CFF?style=for-the-badge&logo=Vite&label=Bundler&labelColor=%23b0c4de">
   <img alt="Static Badge" src="https://img.shields.io/badge/WordPress-%2321759B?style=for-the-badge&logo=WordPress&label=CMS&labelColor=%23b0c4de">
   <img alt="Static Badge" src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&labelColor=%23b0c4de">
-  <img alt="Static Badge" src="https://img.shields.io/badge/redux-%23764ABC?style=for-the-badge&logo=redux&logoColor=%23764ABC&label=CODE&labelColor=%23b0c4de">
 
 </div>
 
