@@ -1,6 +1,6 @@
 <h1 align="center">Привет👋 Меня зовут Екатерина! :girl:</h1>
 
-<h3 align="left">🛠 Технологии:</h3>
+<h3 align="left">:it: Технологии:</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -21,7 +21,11 @@
 
 ___
 
-<h3 align="left">🔥   Моя статистика :</h3>
+<h3 align="left">:wrench: Инструменты:</h3>
+
+___
+
+<h3 align="left">:fire: Моя статистика :</h3>
 
 ###
 
@@ -38,7 +42,9 @@ ___
 
 ###
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/Kat-Matanar45">
+<div align="center">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Kat-Matanar45">
+</div>
 
 <!--
 **Kat-Matanar45/Kat-Matanar45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
