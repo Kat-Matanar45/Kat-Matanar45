@@ -23,6 +23,9 @@
   <img width="12" />
 </div>
 
+<img alt="Endpoint Badge" src="https://img.shields.io/endpoint?url=%7B%20%22schemaVersion%22%3A%201%2C%20%22label%22%3A%20%22Framework%22%2C%20%22message%22%3A%20%22Vue%22%2C%20%22color%22%3A%20%22red%22%20%7D">
+
+
 ###
 
 <h3 align="left">🔥   Моя статистика :</h3>
