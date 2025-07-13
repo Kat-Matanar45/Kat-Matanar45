@@ -21,8 +21,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
   <img width="12" />
-  
-  <img src="[https://skillicons.dev/icons?i=wordpress](https://img.shields.io/endpoint?url=%7B%20%22schemaVersion%22%3A%201%2C%20%22label%22%3A%20%22Framework%22%2C%20%22message%22%3A%20%22Vue%22%2C%20%22color%22%3A%20%22red%22%20%7D)" height="40" alt="wordpress logo"  />
+  />
 </div>
 
 ###
