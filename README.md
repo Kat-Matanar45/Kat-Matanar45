@@ -26,7 +26,8 @@ ___
 <div align="left">
   <img alt="Static Badge" src="https://img.shields.io/badge/React-%2361DAFB?logo=react&label=JS-library">
 </div>
-___
+
+____
 
 <h3 align="left">:fire: Моя статистика :</h3>
 
