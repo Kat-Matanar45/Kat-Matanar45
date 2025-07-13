@@ -38,6 +38,8 @@ ___
 
 ###
 
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/Kat-Matanar45">
+
 <!--
 **Kat-Matanar45/Kat-Matanar45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
