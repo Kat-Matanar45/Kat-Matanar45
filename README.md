@@ -54,9 +54,17 @@ ____
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/Kat-Matanar45">
 </div>
 
-![CodeRun](./coderun_progress.png)
+## 🧩 CodeRun (Yandex)
+
+Участвую в челленджах на [CodeRun от Яндекса](https://coderun.yandex.ru/).  
+✅ Решено задач: 52  
+🏆 Рейтинг: входит в топ-10% по фронтенду  
+📅 Сезон: лето 2025
 
 <!--
+
+![CodeRun](./coderun_progress.png)
+
 **Kat-Matanar45/Kat-Matanar45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
