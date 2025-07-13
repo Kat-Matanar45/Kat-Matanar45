@@ -21,7 +21,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
   <img width="12" />
-  />
 </div>
 
 ###
