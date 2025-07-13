@@ -7,7 +7,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/CSS-%23663399?style=for-the-badge&logo=CSS&label=Code&labelColor=%2523B0C4DE">
   <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=JavaScript&label=Code&labelColor=%2523B0C4DE">
   <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=TypeScript&label=Code&labelColor=%2523B0C4DE">
-
+  <img alt="Static Badge" src="https://img.shields.io/badge/sass-%23CC6699?style=for-the-badge&logo=sass&label=CODE&labelColor=%23555">
 </div>
 
 ___
