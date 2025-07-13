@@ -34,6 +34,7 @@ ___
   <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&label=Framework&labelColor=%23B0C4DE">
   <img alt="Static Badge" src="https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=Next.js&logoColor=black&label=Framework&labelColor=%23B0C4DE">
   <img alt="Static Badge" src="https://img.shields.io/badge/Webpack-blue?style=for-the-badge&logo=Webpack&logoColor=blue&label=%20Bundler&labelColor=%23b0c4de">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Vite-%23646CFF?style=for-the-badge&logo=vite&logoColor=%236495ED&label=%20Bundler&labelColor=%23b0c4de">
 
 </div>
 
