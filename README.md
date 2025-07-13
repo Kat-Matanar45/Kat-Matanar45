@@ -1,5 +1,9 @@
 <h1 align="center">Привет👋 Меня зовут Екатерина!</h1>
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kat-Matanar45.Kat-Matanar45&"  />
+</div>
+
 ###
 
 <h3 align="left">🛠 Технологии:</h3>
