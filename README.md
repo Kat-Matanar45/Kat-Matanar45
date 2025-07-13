@@ -25,6 +25,9 @@ ___
 
 <div align="left">
   <img alt="Static Badge" src="https://img.shields.io/badge/React-%2361DAFB?logo=react&label=JS-library">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-%237952B3?logo=Bootstrap&label=Framework">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Next.js-%23000000?logo=Next.js&label=Framework">
+
 </div>
 
 ____
