@@ -33,8 +33,7 @@ ___
   <img alt="Static Badge" src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=blue&label=JS-library&labelColor=%23B0C4DE">
   <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&label=Framework&labelColor=%23B0C4DE">
   <img alt="Static Badge" src="https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=Next.js&logoColor=black&label=Framework&labelColor=%23B0C4DE">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Webpack-%231E90FF?style=for-the-badge&logo=Webpack&logoColor=%231E90FF&label=%20Bundler&labelColor=%23b0c4de">
-
+  <img alt="Static Badge" src="https://img.shields.io/badge/Webpack-blue?style=for-the-badge&logo=Webpack&logoColor=blue&label=%20Bundler&labelColor=%23b0c4de">
 
 </div>
 
