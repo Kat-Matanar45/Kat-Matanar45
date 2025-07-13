@@ -18,7 +18,11 @@
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
   <img width="12" />
 
+  <img alt="Static Badge" src="https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=HTML5&label=Code&labelColor=%2523B0C4DE">
+  <img alt="Static Badge" src="https://img.shields.io/badge/CSS-%23663399?style=for-the-badge&logo=CSS&label=Code&labelColor=%2523B0C4DE">
   <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=JavaScript&label=Code&labelColor=%2523B0C4DE">
+  
+
 
 </div>
 
