@@ -24,7 +24,7 @@ ___
 <h3 align="left">:wrench: Инструменты:</h3>
 
 <div align="left">
-  <img alt="Static Badge" src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&label=JS-library&labelColor=%23B0C4DE">
+  <img alt="Static Badge" src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=%2300BFFF&label=JS-library&labelColor=%23B0C4DE">
   <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&label=Framework&labelColor=%23B0C4DE">
   <img alt="Static Badge" src="https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=Next.js&logoColor=black&label=Framework&labelColor=%23B0C4DE">
 
