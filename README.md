@@ -8,7 +8,6 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=JavaScript&label=Code&labelColor=%2523B0C4DE">
   <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=TypeScript&label=Code&labelColor=%2523B0C4DE">
   <img alt="Static Badge" src="https://img.shields.io/badge/sass-%23CC6699?style=for-the-badge&logo=sass&label=CODE&labelColor=%23555">
-  <img alt="Static Badge" src="https://img.shields.io/badge/tailwindcss-%2306B6D4?style=for-the-badge&logo=tailwindcss&label=CODE&labelColor=%23555">
 </div>
 
 ___
@@ -18,6 +17,7 @@ ___
 <div align="left">
   <img alt="Static Badge" src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=blue&label=JS-library&labelColor=%23B0C4DE">
   <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&label=Framework&labelColor=%23B0C4DE">
+  <img alt="Static Badge" src="https://img.shields.io/badge/tailwindcss-%2306B6D4?style=for-the-badge&logo=tailwindcss&label=framework&labelColor=%23b0c4de">
   <img alt="Static Badge" src="https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=Next.js&logoColor=black&label=Framework&labelColor=%23B0C4DE">
   <img alt="Static Badge" src="https://img.shields.io/badge/Webpack-blue?style=for-the-badge&logo=Webpack&logoColor=blue&label=%20Bundler&labelColor=%23b0c4de">
   <img alt="Static Badge" src="https://img.shields.io/badge/Vite-%23646CFF?style=for-the-badge&logo=Vite&label=Bundler&labelColor=%23b0c4de">
