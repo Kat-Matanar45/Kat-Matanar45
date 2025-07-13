@@ -24,6 +24,7 @@ ___
   <img alt="Static Badge" src="https://img.shields.io/badge/tailwindcss-%2306B6D4?style=for-the-badge&logo=tailwindcss&label=framework&labelColor=%23b0c4de">
   <img alt="Static Badge" src="https://img.shields.io/badge/Webpack-blue?style=for-the-badge&logo=Webpack&logoColor=blue&label=%20Bundler&labelColor=%23b0c4de">
   <img alt="Static Badge" src="https://img.shields.io/badge/Vite-%23646CFF?style=for-the-badge&logo=Vite&label=Bundler&labelColor=%23b0c4de">
+  <br>
   <img alt="Static Badge" src="https://img.shields.io/badge/WordPress-%2321759B?style=for-the-badge&logo=WordPress&label=CMS&labelColor=%23b0c4de">
   <img alt="Static Badge" src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&labelColor=%23b0c4de">
   <img alt="Static Badge" src="https://img.shields.io/badge/Vercel-%23000000?style=for-the-badge&logo=vercel&label=deployment&labelColor=%23b0c4de">
