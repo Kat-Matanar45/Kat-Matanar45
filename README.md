@@ -17,6 +17,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
   <img width="12" />
+  
 </div>
 
 ___
@@ -25,6 +26,7 @@ ___
 
 <div align="left">
   <img alt="Static Badge" src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=blue&label=JS-library&labelColor=%23B0C4DE">
+  <img width="12" />
   <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&label=Framework&labelColor=%23B0C4DE">
   <img alt="Static Badge" src="https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=Next.js&logoColor=black&label=Framework&labelColor=%23B0C4DE">
 
