@@ -23,6 +23,9 @@ ___
 
 <h3 align="left">:wrench: Инструменты:</h3>
 
+<div align="left">
+  <img alt="Static Badge" src="https://img.shields.io/badge/React-%2361DAFB?logo=react&label=JS-library">
+</div>
 ___
 
 <h3 align="left">:fire: Моя статистика :</h3>
