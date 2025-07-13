@@ -1,10 +1,8 @@
 <h1 align="center">Привет👋 Меня зовут Екатерина!</h1>
 
-___
-
 <h3 align="left">🛠 Технологии:</h3>
 
-###
+___
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
