@@ -66,6 +66,24 @@ ___
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/Kat-Matanar45">
 </div>
 
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 40px; flex-wrap: wrap;">
+  <div style="flex: 1;">
+    <h3>🧩 CodeRun от Яндекса</h3>
+    <p>
+      Занимаюсь решением задач на
+      <a href="https://coderun.yandex.ru/" target="_blank">CodeRun</a> — тренажёре от Яндекса.<br>
+      🔧 <strong>Направление:</strong> Фронтенд<br>
+      🚀 <strong>Цель:</strong> системная практика и рост
+    </p>
+    <img src="https://img.shields.io/badge/Задачи-38%20из%20580-brightgreen" alt="Progress">
+  </div>
+
+  <div style="flex: 1;">
+    <h3>🏆 Codewars</h3>
+    <img src="https://www.codewars.com/users/Katerina45/badges/small" alt="codewars badge">
+  </div>
+</div>
+
 <!--
 
 ![CodeRun](./coderun_progress.png)
