@@ -65,7 +65,7 @@ ___
       <img src="https://img.shields.io/badge/Задачи-38%20из%20580-brightgreen" alt="Progress">
     </td>
     <td>
-      <img src="https://www.codewars.com/users/Katerina45/badges/small" alt="codewars">
+      <img src="https://www.codewars.com/users/Katerina45/badges/micro" alt="codewars">
     </td>
   </tr>
 </table>
@@ -73,13 +73,14 @@ ___
 </div>
 
 
-<div align="right">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Kat-Matanar45">
-</div>
 
 
 
 <!--
+
+<div align="right">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Kat-Matanar45">
+</div>
 
 ![CodeRun](./coderun_progress.png)
 ✅ **Решено задач:** 38 из 580
