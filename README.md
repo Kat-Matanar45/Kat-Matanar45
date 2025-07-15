@@ -62,6 +62,8 @@ ___
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/Kat-Matanar45">
 </div>
 
+[![codewars](https://www.codewars.com/users/username/badges/large)]([https://www.codewars.com/users/username](https://www.codewars.com/users/Katerina45/badges/large))  
+
 <!--
 
 ![CodeRun](./coderun_progress.png)
