@@ -58,11 +58,13 @@ ___
 
 ![Progress](https://img.shields.io/badge/Задачи-38%20из%20580-brightgreen)
 
+___
+
+[![codewars](https://www.codewars.com/users/Katerina45/badges/large)]  
+
 <div align="right">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/Kat-Matanar45">
 </div>
-
-[![codewars](https://www.codewars.com/users/Katerina45/badges/large)]  
 
 <!--
 
