@@ -50,10 +50,25 @@ ____
 
 ___
 
-<div align="center"> 
-  | 🧩 CodeRun от Яндекса | 🏆 Codewars |
-|-----------------------|------------|
-| Занимаюсь решением задач на [CodeRun](https://coderun.yandex.ru/) — тренажёре от Яндекса.  <br> 🔧 **Направление:** Фронтенд <br> 🚀 **Цель:** системная практика и рост <br><br> ![Progress](https://img.shields.io/badge/Задачи-38%20из%20580-brightgreen) | ![codewars](https://www.codewars.com/users/Katerina45/badges/small) |
+<div align="center">
+
+<table>
+  <tr>
+    <th>🧩 CodeRun от Яндекса</th>
+    <th>🏆 Codewars</th>
+  </tr>
+  <tr>
+    <td>
+      Занимаюсь решением задач на <a href="https://coderun.yandex.ru/">CodeRun</a> — тренажёре от Яндекса.<br>
+      🔧 <strong>Направление:</strong> Фронтенд<br>
+      🚀 <strong>Цель:</strong> системная практика и рост<br><br>
+      <img src="https://img.shields.io/badge/Задачи-38%20из%20580-brightgreen" alt="Progress">
+    </td>
+    <td>
+      <img src="https://www.codewars.com/users/Katerina45/badges/small" alt="codewars">
+    </td>
+  </tr>
+</table>
 
 </div>
 
